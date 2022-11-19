@@ -10,6 +10,6 @@ class Main {
   
       // add two numbers
       int sum = first + second;
-      System.out.println("The sum is: " + sum);
+      System.out.println("The change sum is: " + sum);
     }
   }
